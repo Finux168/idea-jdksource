@@ -14,4 +14,5 @@ idea中的继承树的配置
   如下图:
   
   ![image](https://raw.githubusercontent.com/Finux168/idea-jdksource/master/images/TypeHierarchy.png)
+  
   选中jdksource就能够查看只有jdk的继承树了
